@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Hermawan Yogi Wibisono 👋
 
-<!--
-**wibihegi-dev/wibihegi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** focused on building robust web applications and extracting insights through data science. I specialize in backend development with **Laravel** and data automation/analysis using **Python**.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- **Backend Development:** Designing clean and scalable APIs using Laravel.
+- **Data Science:** Predictive modeling and data visualization using Python (Pandas, Matplotlib, Seaborn).
+- **Desktop Solutions:** Developing functional desktop tools with VB.NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** PHP, Python, SQL, VB.NET
+- **Frameworks:** Laravel, Flask
+- **Data Science:** Scikit-Learn, Pandas, NumPy
+- **Cloud & Tools:** Oracle Cloud, MariaDB, Git, Canva
+
+### 📂 Highlighted Projects
+- **Karnexa:** Founder of a digital agency providing IT consulting and web development.
+- **CloudWaste:** A cloud-integrated waste monitoring system built with PHP.
+- **Titanic Data Analysis:** A data science project comparing Random Forest and Logistic Regression models.
+
+### 📫 Connect with me
+- **Business Inquiry:** wibihegi02@gmail.com
+- **Instagram:** [@wiibbii._](https://instagram.com/wiibbii._)
+
+---
+*"I solve complex problems with clean code and data-driven insights."*
