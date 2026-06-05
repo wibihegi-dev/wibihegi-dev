@@ -19,7 +19,7 @@ I am a **Software Developer** focused on building robust web applications and ex
 - **Titanic Data Analysis:** A data science project comparing Random Forest and Logistic Regression models.
 
 ### 📫 Connect with me
-- **Business Inquiry:** wibisono090205@gmail.com
+- **Business Inquiry:** wibihegi02@gmail.com
 - **Instagram:** [@wiibbii._](https://instagram.com/wiibbii._)
 
 ---
