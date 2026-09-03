@@ -9,14 +9,13 @@ I am a **Software Developer** focused on building robust web applications and ex
 
 ### 🛠 Tech Stack
 - **Languages:** PHP, Python, SQL, VB.NET
-- **Frameworks:** Laravel, Flask
+- **Frameworks:** Laravel
 - **Data Science:** Scikit-Learn, Pandas, NumPy
-- **Cloud & Tools:** Oracle Cloud, MariaDB, Git, Canva
+- **Tools:** Visual Studio Code, Postgree SQL, Git, Jupyter, Google Colab 
 
 ### 📂 Highlighted Projects
 - **Karnexa:** Founder of a digital agency providing IT consulting and web development.
-- **CloudWaste:** A cloud-integrated waste monitoring system built with PHP.
-- **Titanic Data Analysis:** A data science project comparing Random Forest and Logistic Regression models.
+- **KMS Telkom:** A Knowledge Management System developed during an internship at PT Telkom Infrastruktur Indonesia, built with Laravel and Next.js and integrated through RESTful APIs.
 
 ### 📫 Connect with me
 - **Business Inquiry:** wibihegi02@gmail.com
